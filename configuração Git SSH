@@ -17,3 +17,16 @@ ssh-add id_ed25519
 para clonar repositorio
 
 git clone (chave ssh)
+
+# listas parametros git
+git config --list
+# deletar parametros de configuração nickname e email
+git config --global --unset user.email
+git config --global --unset user.nickname
+# setar parametros de configuração nickname e email
+git config --global user.email "informar e-mail"
+git config --global user.nickname "informar nickname"
+# adicionar endereço repositorio
+git remote add origin (link)
+# visualizar endereços remotos
+git remote -v
