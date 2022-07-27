@@ -22,10 +22,10 @@ git clone (chave ssh)
 git config --list
 # deletar parametros de configuração nickname e email
 git config --global --unset user.email(e-mail)
-git config --global --unset user.nickname(nickname)
+git config --global --unset user.name(name)
 # setar parametros de configuração nickname e email
 git config --global user.email "informar e-mail"
-git config --global user.nickname "informar nickname"
+git config --global user.name "informar name"
 # adicionar endereço repositorio
 git remote add origin (link)
 # visualizar endereços remotos
