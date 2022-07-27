@@ -37,6 +37,7 @@ git ini  inicia repositorio
 git remote add origin link
 git commit -m"texto"
 git push origin master 
+git pull origim master  (para buscar alterações)
 git add  (mome do arquivo) ou * para marcar todos os arquivos
 git commit -m "mensagem" para comitar
 ls -a # mostra arquivos ocultos
