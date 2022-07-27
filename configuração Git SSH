@@ -35,6 +35,7 @@ git remote -v
 git ini  inicia repositorio
 ## comandos para subir para Git
 git remote add origin link
+git commit -m"texto"
 git push origin master 
 git add  (mome do arquivo) ou * para marcar todos os arquivos
 git commit -m "mensagem" para comitar
