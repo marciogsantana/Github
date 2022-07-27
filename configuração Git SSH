@@ -21,8 +21,8 @@ git clone (chave ssh)
 # listas parametros git
 git config --list
 # deletar parametros de configuração nickname e email
-git config --global --unset user.email
-git config --global --unset user.nickname
+git config --global --unset user.email(e-mail)
+git config --global --unset user.nickname(nickname)
 # setar parametros de configuração nickname e email
 git config --global user.email "informar e-mail"
 git config --global user.nickname "informar nickname"
