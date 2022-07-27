@@ -30,3 +30,9 @@ git config --global user.name "informar name"
 git remote add origin (link)
 # visualizar endereços remotos
 git remote -v
+
+## principais comandos
+git ini  inicia repositorio
+git add  (mome do arquivo) ou * para marcar todos os arquivos
+git commit -m "mensagem" para comitar
+ls -a # mostra arquivos ocultos
