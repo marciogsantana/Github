@@ -32,7 +32,7 @@ git remote add origin (link)
 git remote -v
 
 ## principais comandos
-git ini  inicia repositorio
+git init  inicia repositorio
 ## comandos para subir para Git
 git remote add origin link
 git commit -m"texto"
