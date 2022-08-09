@@ -33,6 +33,8 @@ git remote -v
 
 ## principais comandos
 git init  inicia repositorio
+git checkout -b main 
+# alterar branch de master padrão git para padrão main
 ## comandos para subir para Git
 git remote add origin link
 git commit -m"texto"
